@@ -1,10 +1,10 @@
 ## KastorCode Wallpapers
 
 <p align="center">
-  <img src="dark-orange-wood-desktop.png" />
+  <img src="desktop/dark-orange-wood-desktop.png" />
 </p>
 <p align="center">
-  <img src="orange-sky-desktop.png" />
+  <img src="desktop/orange-sky-desktop.png" />
 </p>
 
 > 👷 Made by Matheus Ramalho de Oliveira.  
